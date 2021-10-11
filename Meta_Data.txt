@@ -32,4 +32,7 @@ NumCatalogPurchases : Nombre d'achats effectués à l'aide d'un catalogue
 NumStorePurchases : Nombre d'achats effectués directement en magasin
 NumWebVisitsMonth : nombre de visites sur le site Web de l'entreprise au cours du dernier mois
 
+- Exporation de données
+- préprocessing
+
 
